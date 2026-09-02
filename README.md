@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Ethical Hacking & Penetration Testing Labs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ethical Hacking & Penetration Testing Labs](#)
 
 <h2> Certifications </h2>
 
